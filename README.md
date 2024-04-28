@@ -8,4 +8,6 @@
 The ugly white scrollbars aren't actually part of the theme, for some reason they appear in the preview on ClearVision.
 
 
+
+
 **Made by .cubedude on Discord using ClearVision**
