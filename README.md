@@ -7,4 +7,4 @@
 ![theme preview](https://github.com/GCubeDude/One-Piece-Discord-Theme/blob/main/One%20Piece%20Theme%20Preview.png)
 
 
-**Made by .cubedude on Discord**
+**Made by .cubedude on Discord using ClearVision**
